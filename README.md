@@ -10,7 +10,7 @@ LiveSync Desk is built around one simple idea:
 When people interact visually in real time, the system should disappear.
 The goal is to make collaboration feel natural — like standing around the same desk — whether users are students, teachers, collaborators, or remote teams.
 
-🧩 Key Capabilities (in progress)
+🧩 Key Capabilities:
 Real-time shared board (drawing & interaction)
 Multi-user synchronization
 WebRTC-based communication experiments
