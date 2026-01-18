@@ -5,7 +5,7 @@ LiveSyncDesk is an independent project under active development. It's a general-
 # LiveSyncDesk (WebRTC):
 The project focuses on human-centered real-time presence, not just data sync — combining canvas interaction, live updates, and communication layers into a single shared desk experience.
 
-✨ Core Vision
+✨ Core Vision:
 LiveSync Desk is built around one simple idea:
 When people interact visually in real time, the system should disappear.
 The goal is to make collaboration feel natural — like standing around the same desk — whether users are students, teachers, collaborators, or remote teams.
@@ -18,17 +18,17 @@ Socket-based event syncing
 Lightweight, responsive UI for desktop & mobile
 Progressive Web App (PWA) foundations
 
-🗂 Project Structure
+🗂 Project Structure: 
 
 /public        → PWA assets
 /src           → UI & canvas logic
 /server        → Real-Time backend sockets)
 
-🕒 Project Timeline Note
+🕒 Project Timeline Note:
 The concept, design, and core development of LiveSync Desk began earlier (approx. Oct–Nov 2025).
 The project is under active development with Testing phase, but already useful in many ways.
 
-🔧 Development Status
+🔧 Development Status:
 This project is actively evolving.
 Features are added iteratively after real-world testing rather than predefined roadmaps.
 Expect:
@@ -36,7 +36,7 @@ refactors
 architectural changes
 experimental modules
 
-🚀 Philosophy
+🚀 Philosophy: 
 LiveSync Desk is not an ERP, LMS, or generic collaboration tool.
 It is designed as a:
 real-time presence space,
@@ -53,8 +53,8 @@ https://livesyncdesk.online/syncdesk.html
 
 For feedback, support, or collaboration: (livesyncdesk@gmail.com)
 
-📌 Note
-Note: This is an independent personal project. Please watch the demo video to understand the experience.
+📌 Note:
+This is an independent personal project. Please watch the demo video to understand the experience.
 
    Uttam Konwar
 CREATOR & DEVELOPER
