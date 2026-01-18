@@ -1,7 +1,7 @@
 # LiveSyncDesk-Demo
 LiveSyncDesk is an independent project under active development. It's a general-purpose collaboration board where you can Draw together, upload images and sync with zoom or focus to explain and discuss the same image in real time together. LiveSync Desk is a real-time collaborative visual workspace designed for shared drawing, teaching, discussion, and synchronized interaction across devices and locations.
 [Wtach demo] (https://youtube.com/shorts/Sx1-r5cv0ro?si=YfJMuxV6gVoZcgQx)
-
+[Quick_Moment] (https://youtu.be/Zsb3yir2I58?si=cAEAV5tzmL1Mugz4)
 # LiveSyncDesk (WebRTC):
 The project focuses on human-centered real-time presence, not just data sync — combining canvas interaction, live updates, and communication layers into a single shared desk experience.
 
