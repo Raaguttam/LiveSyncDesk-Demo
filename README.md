@@ -59,4 +59,4 @@ Note: This is an independent personal project. Please watch the demo video to un
    Uttam Konwar
 CREATOR & DEVELOPER
 — LiveSync Desk
-© 2025 Uttam Konwar. All rights reserved.
+© All rights reserved.
