@@ -19,7 +19,7 @@ https://livesyncdesk.online/
 🔹️ Improved clean UI layout
 🔹️ Removed WebRTC module to keep the app lightweight and focused
 
-# How it eorks ?
+# How does it work ?
 1. Create a room
 2. Share the invite link
 3. Discuss visually in real time
