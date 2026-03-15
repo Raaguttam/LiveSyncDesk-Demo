@@ -66,7 +66,7 @@ The project is under active development with Testing phase, but already useful i
 
 # 🔧 Development Status:
 This project is actively evolving.
-▪️ Features are added iteratively after real-world experience rather than predefined roadmaps.
+▪️ Features are added iteratively after real-world experience and testing rather than predefined roadmaps.
 Expect:
 ▪️ refactors
 ▪️ architectural changes
