@@ -4,7 +4,7 @@
 ## 🚀 Recently redesigned UI with image reels and animated highlighter.
 
 # What is LiveSyncDesk App?
-LiveSyncDesk is an independent project. It's a lightweight real-time collaboration workspace which Keeps everyone aligned with ZoomSync to the same area on board in real time with the uploaded images and drawings. LiveSyncDesk is designed for # Remote discussions, Remote Meetings, Teaching, Explaining or friendly discussing an image with perfectly synchronized shared interaction across devices screens and locations.
+LiveSyncDesk is an independent project. It's a lightweight real-time collaboration workspace which Keeps everyone aligned with ZoomSync to the same area on board along with the uploaded images and drawings. LiveSyncDesk is designed for # Remote discussions, Remote Meetings, Teaching, Explaining or friendly discussing an image with perfectly synchronized shared interaction across devices screens and locations.
 
 # The Website:
 https://livesyncdesk.online/syncdesk.html
