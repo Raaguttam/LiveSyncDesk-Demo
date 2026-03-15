@@ -13,7 +13,7 @@ https://livesyncdesk.online/syncdesk.html
 https://livesyncdesk.online/
 
 # ✨ What’s New (Latest Update)
-🔹️ Added Text tool (add / remove text on board)
+🔹️ Added Text tool (add / remove text on board or on image)
 🔹️ Added Image Reel – upload multiple images and present them sequentially
 🔹️ Added Animated Highlighter for attention focus
 🔹️ Improved clean UI layout
