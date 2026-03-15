@@ -1,62 +1,101 @@
-# LiveSyncDesk-Demo
-LiveSyncDesk is an independent project. It's a general-purpose collaboration board where you can Draw together, upload images and sync with zoom or focus to explain and discuss the same image in real time together. LiveSync Desk is a real-time collaborative visual workspace designed for shared drawing, teaching, discussion, and synchronized interaction across devices and locations.
-[Wtach demo] (https://youtube.com/shorts/Sx1-r5cv0ro?si=YfJMuxV6gVoZcgQx)
-[Quick_Moment] (https://youtu.be/Zsb3yir2I58?si=cAEAV5tzmL1Mugz4)
-# LiveSyncDesk (WebRTC):
-The project focuses on human-centered real-time presence, not just data sync — combining canvas interaction, live updates, and communication layers into a single shared desk experience.
+# LiveSyncDesk - A real-time visual discussion workspace.
 
-✨ Core Vision:
-LiveSync Desk is built around one simple idea:
+# UPDATE :
+🚀 Recently redesigned UI with image reels and animated highlighter.
+
+# What is LiveSyncDesk App?
+LiveSyncDesk is an independent project. It's a lightweight real-time collaboration workspace which Keeps everyone aligned with ZoomSync to the same area on board in real time with the uploaded images and drawings. LiveSyncDesk is designed for # Remote discussions, Remote Meetings, Teaching, Explaining or friendly discussing an image with perfectly synchronized shared interaction across devices screens and locations.
+
+# The Website:
+https://livesyncdesk.online/syncdesk.html
+
+# The App:
+https://livesyncdesk.online/
+
+# ✨ What’s New (Latest Update)
+🔹️ Added Text tool (add / remove text on board)
+🔹️ Added Image Reel – upload multiple images and present them sequentially
+🔹️ Added Animated Highlighter for attention focus
+🔹️ Improved clean UI layout
+🔹️ Removed WebRTC module to keep the app lightweight and focused
+
+# How it eorks ?
+1. Create a room
+2. Share the invite link
+3. Discuss visually in real time
+   
+# 🔶️Key Features
+🔸️ Real-time synchronized board
+🔸️ ZoomSync (shared viewport focus) Keeps everyone aligned to the same area on board
+🔸️ Draw and annotate together
+🔸️ Upload images and present slides
+🔸️ Instant sharing via invite link
+🔸️ No login required
+
+# 🔷️ Why LiveSyncDesk?
+A lightweight visual discussion space where everyone 
+sees the same board in real time.
+## 🔹️Camera-Free Meetings
+LiveSyncDesk works alongside any voice call.
+- No video meetings required
+- No camera setup
+- No meeting appearance pressure
+Just open the board and discuss visually.
+
+# ✨ Core Vision:
+LiveSyncDesk is built around one simple idea:
 When people interact visually in real time, the system should disappear.
 The goal is to make collaboration feel natural — like standing around the same desk — whether users are students, teachers, collaborators, or remote teams.
 
-🧩 Key Capabilities:
-Real-time shared board (drawing & interaction)
-Multi-user synchronization
-WebRTC-based communication experiments
-Socket-based event syncing
-Lightweight, responsive UI for desktop & mobile
-Progressive Web App (PWA) foundations
+# 🧩 Key Capabilities:
+▪️ Real-time shared board (drawing & image interaction)
+▪️ Multi-user synchronization
+▪️ Socket-based event syncing
+▪️ Lightweight, responsive UI for desktop & mobile
+▪️ Progressive Web App (PWA) foundations
 
-🗂 Project Structure: 
+# 🗂 Project Structure: 
 
 /public        → PWA assets
 /src           → UI & canvas logic
 /server        → Real-Time backend sockets)
 
-🕒 Project Timeline Note:
+# 🕒 Project Timeline Note:
 The concept, design, and core development of LiveSync Desk began earlier (approx. Oct–Nov 2025).
 The project is under active development with Testing phase, but already useful in many ways.
 
-🔧 Development Status:
+# 🔧 Development Status:
 This project is actively evolving.
-Features are added iteratively after real-world testing rather than predefined roadmaps.
+▪️ Features are added iteratively after real-world experience rather than predefined roadmaps.
 Expect:
-refactors
-architectural changes
-experimental modules
+▪️ refactors
+▪️ architectural changes
+▪️ experimental modules
 
-🚀 Philosophy: 
-LiveSync Desk is not an ERP, LMS, or generic collaboration tool.
+# 🚀 Philosophy: 
+LiveSyncDesk is not an ERP, LMS, or generic collaboration tool.
 It is designed as a:
-real-time presence space,
-visual thinking desk,
-shared attention environment,
-Technology serves interaction — not the other way around.
+▪️ Real-time presence space,
+▪️ Visual thinking desk,
+▪️ Shared attention environment,
+▪️ Technology serves interaction — not the other way around.
 
 # The App: 
 https://livesyncdesk.online/
-# Tutorial: 
-(https://youtube.com/shorts/ji55VSxBYqs?si=AF4u6--U8Tf_jwk9)
-# Info_page:
+# Website:
 https://livesyncdesk.online/syncdesk.html
 
-For feedback, support, or collaboration: (livesyncdesk@gmail.com)
+# Contact:
+🔷️ For feedback, support, or collaboration: (livesyncdesk@gmail.com)
+🔶️ For new ideas or want to discuss a use case with the Developer personally:
+📧 uttam.konwer@gmail.com
 
-📌 Note:
-This is an independent personal project. Please watch the demo video to understand the experience.
+# GENERAL DISCLAIMER: 
+LiveSyncDesk is a general-purpose collaboration board and not intended for sharing confidential or sensitive information. Always follow your organization's data and security guidelines.
+
+— With Regards:
 
    Uttam Konwar
 CREATOR & DEVELOPER
-— LiveSync Desk
+— LiveSyncDesk 2025
 © All rights reserved.
