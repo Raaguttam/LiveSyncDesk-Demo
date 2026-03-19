@@ -27,7 +27,18 @@ https://livesyncdesk.online/
 3. Discuss visually in real time
 # Quick_Guide:
 https://youtube.com/shorts/sNInN0XkU2Q?si=oWYtSJRMWP8_WazU
-   
+
+# Demo Scenarios: 
+# ● Remote meetings Flow with LiveSyncDesk 
+https://youtu.be/GyxLvICrRF0?si=gUtmxd5BnvP6WHie
+# ● Meetings Flow with LiveSyncDesk in a same room Environment:
+https://youtu.be/CjWP1EIS_Vk?si=8SlbrSRjujdrpkgL
+
+https://youtu.be/jM0FMbIpFo4?si=7AWMAvv66zi7WAQ9
+
+# Real-time Attendance recording Flow with LiveSyncDesk: 
+https://youtu.be/h-e0Odx1KNA?si=F4NCzHueiXp8DgQX
+
 # 🔶️Key Features
 🔸️ Real-time synchronized board
 🔸️ ZoomSync (shared viewport focus) Keeps everyone aligned to the same area on board
