@@ -102,8 +102,6 @@ https://livesyncdesk.online/syncdesk.html
 
 # Contact:
 🔷️ For feedback, support, or collaboration: (livesyncdesk@gmail.com)
-🔶️ For new ideas or want to discuss a use case with the Developer personally:
-📧 uttam.konwer@gmail.com
 
 # GENERAL DISCLAIMER: 
 LiveSyncDesk is a general-purpose collaboration board and not intended for sharing confidential or sensitive information. Always follow your organization's data and security guidelines.
